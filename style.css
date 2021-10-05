@@ -1,0 +1,11 @@
+img{
+ width:300px;
+  height:300px;
+    border:3px green solid;
+  padding:5px;
+}
+}
+body{
+    color: red;
+    background-color: aqua;
+}
